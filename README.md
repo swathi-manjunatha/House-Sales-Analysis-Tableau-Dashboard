@@ -1,5 +1,6 @@
 # King-county,Washington-House-Sales-Analysis-using-Tableau-Dashboard
 
+---
 
 **🏠 King County House Sales Analysis – Interactive Tableau Dashboard 📊**  
 
@@ -29,5 +30,10 @@ Excited to share my **Tableau Dashboard** analyzing **King County, Washington Ho
 
 #### **6. Interactive Features** 
 - **Calendar widget** enables analysis for specific dates or periods.  
-- **Dynamic filters** for size, year built, and lot area help users drill into trends.  
+- **Dynamic filters** for size, year built, and lot area help users drill into trends.
+
+---
+## Dashboard Screenshot
+
+<img width="1364" alt="Screenshot 2025-05-23 at 10 40 40 PM" src="https://github.com/user-attachments/assets/5bf084a0-9bbc-43ab-a9e8-914862a615f5" />
 
