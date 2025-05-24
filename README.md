@@ -1,39 +1,56 @@
-# King-county,Washington-House-Sales-Analysis-using-Tableau-Dashboard
+# 🏠 King County, WA – House Sales Analysis Dashboard (Tableau)
+
+> An interactive Tableau dashboard exploring property sales data from **King County, Washington**, to uncover market trends, pricing behaviors, and geographic insights.
 
 ---
 
-**🏠 King County House Sales Analysis – Interactive Tableau Dashboard 📊**  
+## 📌 Project Overview
 
-Excited to share my **Tableau Dashboard** analyzing **King County, Washington House Sales Data**! This project dives into **market trends**, **pricing patterns**, and **property features** to deliver actionable insights.  
+This project visualizes and analyzes residential real estate sales to help identify:
 
-**Key Insights Uncovered:**  
+- 🔍 Pricing patterns over time  
+- 🌍 High-demand neighborhoods  
+- 🏗️ Impact of property features (e.g., bedrooms, condition, view)  
+- 📉 Market segmentation by price range  
 
-#### **1. Pricing Trends**  
-- Analyzed **daily average prices** to observe fluctuations and seasonal trends.  
-- Higher prices correlated with **better property views** and **recent renovations**.  
-- Pricing dipped for older constructions with poor conditions.  
-
-#### **2. Geographical Insights**  
-- Mapped sales to show **high-demand neighborhoods**, particularly near **waterfront areas**.  
-- Suburban areas had **lower prices**, attracting budget-conscious buyers.  
-
-#### **3. Property Features**
-- Majority of homes sold had **3-4 bedrooms**, meeting mid-sized family needs.  
-- Homes with **2-3 bathrooms** saw quicker sales, showing buyer preferences for functionality.  
-
-#### **4. View vs. Condition Impact**  
-- Heatmap analysis revealed that homes with **good views** but **average conditions** still sold at **higher prices** compared to homes with poor views.  
-
-#### **5. Price Distribution** 
-- Histogram analysis highlighted price clusters in the **$200K–$600K range**, showing strong market demand for affordable housing.  
-- Fewer properties exceeded **$1M**, indicating niche demand for luxury homes.  
-
-#### **6. Interactive Features** 
-- **Calendar widget** enables analysis for specific dates or periods.  
-- **Dynamic filters** for size, year built, and lot area help users drill into trends.
+Built using **Tableau**, this dashboard enables dynamic filtering and interactive exploration of housing trends from a buyer, seller, and investor perspective.
 
 ---
-## Dashboard Screenshot
 
-<img width="1364" alt="Screenshot 2025-05-23 at 10 40 40 PM" src="https://github.com/user-attachments/assets/5bf084a0-9bbc-43ab-a9e8-914862a615f5" />
+## 💡 Key Insights
+
+- **Pricing Trends:** Renovated and well-viewed homes fetch higher prices  
+- **Location Insights:** Waterfront and central locations dominate premium pricing  
+- **Feature Preferences:** 3–4 bedrooms and 2–3 bathrooms are the most sought-after  
+- **Condition vs. View:** A good view can offset average property conditions  
+- **Price Clustering:** Strong buyer activity in the $200K–$600K range; luxury sales are fewer but notable
+
+---
+
+## 🛠️ Dashboard Features
+
+- 📅 **Calendar widget** for date-based filtering  
+- 📊 **Interactive charts**: heatmaps, histograms, bar charts  
+- 🔎 **Dynamic filters** for bedrooms, size, lot area, year built  
+- 🌐 **Geographic maps** pinpointing pricing hot spots  
+
+---
+
+## 📸 Dashboard Preview
+
+![Dashboard Screenshot](https://github.com/user-attachments/assets/5bf084a0-9bbc-43ab-a9e8-914862a615f5)
+
+---
+
+## 🔗 Explore More
+
+> 📍 This project is ideal for those exploring **real estate analytics**, **Tableau dashboarding**, or **data storytelling with geography**.
+You can interact with the full dashboard here:  https://public.tableau.com/views/KingCountyWashingtonHouseSalesDashboard_17356160202220/KingCountyHouseSales?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
+---
+
+## 📫 Contact
+
+- 📧 swathixm@gmail.com  
+- 🔗 [LinkedIn](https://linkedin.com/in/swathi-manjunatha)
 
